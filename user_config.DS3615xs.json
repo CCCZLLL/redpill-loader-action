@@ -6,8 +6,8 @@
     "mac1": "001132417FA1"
   },
   "synoinfo": {
-    "supportsystemperature": "no",
-    "supportsystempwarning": "no"
+    "supportsystemperature": "yes",
+    "supportsystempwarning": "yes"
   },
   "ramdisk_copy": {}
 }
